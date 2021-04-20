@@ -10,6 +10,7 @@ import pulumi_aws.config
 import pulumi_aws.route53
 import pulumi_aws.s3
 
+#test
 def get_domain_and_subdomain(domain):
     """
     Returns the subdomain and the parent domain.
